@@ -1,0 +1,21 @@
+Descripción
+Para la entrega de pre-proyecto se requerirá que se entregue por alumno un documento que contenga una determinada información. En las siguientes listas encontrará los elementos de entrega obligatoria .
+
+Requerimientos
+Título/ Carátula del proyecto
+Nombre de proyecto
+Descripción del proyecto
+Foto o imagen del esquemático de proyecto con la identificación clara de los componentes
+Tabla que liste los tipos de componentes , su cantidad y el total de los componentes ( Nota: use el siguiente ejemplo como referencia - Ejemplo de Tabla)
+Consideraciones
+A la elección de esquemático para el pre-proyecto se pedirá que se cumpla con las siguiente consideraciones:
+
+La cantidad mínima de componentes debe ser 70
+La variedad mínima de componentes debe ser 8
+No se debe utilizar componentes con encapsulado BGA (Ball grid array).
+
+Entrega
+La entrega se realizará Mediante el aula virtual mediante la entrega de un zip que cumpla las siguientes consideraciones:
+
+El formato del archivo debe ser PDF.
+El nombre del archivo deberá contener el ID del curso (R1051),el año, Apellido, y la leyenda "Pre-Proyecto". ( EJ; R1051-2022-Apellido-Pre-Proyecto)
