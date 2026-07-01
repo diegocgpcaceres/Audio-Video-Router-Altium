@@ -12,10 +12,17 @@ El proyecto abarca la captura esquemática, diseño de PCB, generación de docum
 
 ## Estructura del Repositorio
 
-* `/Documentacion`: Contiene el informe técnico completo (PDF), incluyendo criterios de diseño, reglas utilizadas, documentación de fabricación y renders 3D.
-* `/Proyecto_Altium`: Archivos fuente del proyecto desarrollados en Altium Designer.
-* `/Imagenes`: Capturas del esquemático, PCB final y vistas 3D del diseño.
+* `/Preproyecto`: Contiene la propuesta inicial presentada para la materia, descripción del proyecto y link del fabricante
+* `/Entrega Final`: Contiene toda la documentación técnica del proyecto:
 
+* Archivos fuente de Altium Designer.
+* Informe técnico final.
+* Bill of Materials (BOM).
+* Datasheets de los componentes utilizados.
+* Documentación de fabricación.
+* Modelo 3D del gabinete desarrollado en OnShape.
+* Renderizados finales del PCB y del ensamblado completo.
+ 
 ## Características del Proyecto
 
 * PCB de dos capas.
